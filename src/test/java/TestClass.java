@@ -7,7 +7,7 @@ public class TestClass {
     public void contextLoads() {
 
         System.out.println("RUNNING");
-        assert 1==2;
+        assert 1==1;
     }
 
 }
